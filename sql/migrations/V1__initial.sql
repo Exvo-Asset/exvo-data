@@ -1,0 +1,2 @@
+-- initial migration (same as create_schema.sql)
+-- Run this in your migration tooling (flyway/liquibase/psql)
